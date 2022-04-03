@@ -13,7 +13,7 @@ An active event camera simulator based on [DAVIS simulator](https://github.com/u
 Install the following libraries:
 
 ```
-pip3 intall numpy pygame PyOpenGL pyrr opencv-python
+pip3 install numpy pygame PyOpenGL pyrr opencv-python
 ```
 
 ## Running the demo
